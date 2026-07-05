@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 297" width="1680" height="1188">
+<rect x="0" y="0" width="420" height="297" fill="white"/>
+<line x1="8" y1="289" x2="412" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="289" x2="412" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="8" x2="8" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="8" y1="8" x2="8" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="287" x2="410" y2="287" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="287" x2="410" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="10" x2="10" y2="287" stroke="#000000" stroke-width="0.4"/>
+<text x="14" y="16" font-family="Arial" font-size="5.5" fill="#000000">E-003   Main LV MDB Layout</text>
+<line x1="12" y1="285" x2="408" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="285" x2="408" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="253" x2="12" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="253" x2="12" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="265" x2="408" y2="265" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="274" x2="408" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="290" y1="265" x2="290" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="150" y1="285" x2="150" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="230" y1="285" x2="230" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="300" y1="285" x2="300" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="350" y1="285" x2="350" y2="274" stroke="#000000" stroke-width="0.4"/>
+<text x="15" y="261.5" font-family="Arial" font-size="3" fill="#000000">PROJECT: Smart Residential Neighborhood - Power Systems (Option B, LV 22/0.4kV)</text>
+<text x="305" y="261.5" font-family="Arial" font-size="2.8" fill="#000000">MILESTONE 4 - FINAL</text>
+<text x="15" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DRAWING: Main LV MDB Layout</text>
+<text x="293" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DWG No.: E-003</text>
+<text x="15" y="281" font-family="Arial" font-size="2.6" fill="#000000">STUDENT: __________</text>
+<text x="153" y="281" font-family="Arial" font-size="2.6" fill="#000000">SUPERVISOR: ______</text>
+<text x="233" y="281" font-family="Arial" font-size="2.6" fill="#000000">DATE: 2026-06-11</text>
+<text x="303" y="281" font-family="Arial" font-size="2.6" fill="#000000">REV: B FINAL</text>
+<text x="353" y="281" font-family="Arial" font-size="2.6" fill="#000000">SCALE: NTS</text>
+<line x1="30" y1="227" x2="380" y2="227" stroke="#C00000" stroke-width="0.4"/>
+<line x1="380" y1="227" x2="380" y2="27" stroke="#C00000" stroke-width="0.4"/>
+<line x1="380" y1="27" x2="30" y2="27" stroke="#C00000" stroke-width="0.4"/>
+<line x1="30" y1="27" x2="30" y2="227" stroke="#C00000" stroke-width="0.4"/>
+<text x="150" y="35" font-family="Arial" font-size="3" fill="#C00000">MDB CABINET - 2500A / Icw 65kA</text>
+<line x1="30" y1="47" x2="380" y2="47" stroke="#C00000" stroke-width="0.4"/>
+<text x="150" y="44" font-family="Arial" font-size="2.8" fill="#C00000">BUSBAR 2500A (Cu)</text>
+<line x1="45" y1="82" x2="135" y2="82" stroke="#E07000" stroke-width="0.4"/>
+<line x1="135" y1="82" x2="135" y2="54" stroke="#E07000" stroke-width="0.4"/>
+<line x1="135" y1="54" x2="45" y2="54" stroke="#E07000" stroke-width="0.4"/>
+<line x1="45" y1="54" x2="45" y2="82" stroke="#E07000" stroke-width="0.4"/>
+<text x="47" y="58.5" font-family="Arial" font-size="2.8" fill="#000000">INCOMER 1</text>
+<text x="47" y="63" font-family="Arial" font-size="2.6" fill="#000000">ACB 1600A / 65kA</text>
+<line x1="275" y1="82" x2="365" y2="82" stroke="#E07000" stroke-width="0.4"/>
+<line x1="365" y1="82" x2="365" y2="54" stroke="#E07000" stroke-width="0.4"/>
+<line x1="365" y1="54" x2="275" y2="54" stroke="#E07000" stroke-width="0.4"/>
+<line x1="275" y1="54" x2="275" y2="82" stroke="#E07000" stroke-width="0.4"/>
+<text x="277" y="58.5" font-family="Arial" font-size="2.8" fill="#000000">INCOMER 2</text>
+<text x="277" y="63" font-family="Arial" font-size="2.6" fill="#000000">ACB 1600A / 65kA</text>
+<line x1="160" y1="82" x2="250" y2="82" stroke="#E07000" stroke-width="0.4"/>
+<line x1="250" y1="82" x2="250" y2="54" stroke="#E07000" stroke-width="0.4"/>
+<line x1="250" y1="54" x2="160" y2="54" stroke="#E07000" stroke-width="0.4"/>
+<line x1="160" y1="54" x2="160" y2="82" stroke="#E07000" stroke-width="0.4"/>
+<text x="162" y="58.5" font-family="Arial" font-size="2.8" fill="#000000">BUS-TIE</text>
+<text x="162" y="63" font-family="Arial" font-size="2.6" fill="#000000">1600A</text>
+<line x1="32" y1="187" x2="64" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="64" y1="187" x2="64" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="64" y1="163" x2="32" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="32" y1="163" x2="32" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="34" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="34" y="172" font-family="Arial" font-size="2.6" fill="#000000">BLDG A 800A</text>
+<line x1="48" y1="163" x2="48" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="67" y1="187" x2="99" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="99" y1="187" x2="99" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="99" y1="163" x2="67" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="67" y1="163" x2="67" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="69" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="69" y="172" font-family="Arial" font-size="2.6" fill="#000000">BLDG B 800A</text>
+<line x1="83" y1="163" x2="83" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="102" y1="187" x2="134" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="134" y1="187" x2="134" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="134" y1="163" x2="102" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="102" y1="163" x2="102" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="104" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="104" y="172" font-family="Arial" font-size="2.6" fill="#000000">BLDG C 800A</text>
+<line x1="118" y1="163" x2="118" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="137" y1="187" x2="169" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="169" y1="187" x2="169" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="169" y1="163" x2="137" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="137" y1="163" x2="137" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="139" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="139" y="172" font-family="Arial" font-size="2.6" fill="#000000">EV 250A</text>
+<line x1="153" y1="163" x2="153" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="172" y1="187" x2="204" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="204" y1="187" x2="204" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="204" y1="163" x2="172" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="172" y1="163" x2="172" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="174" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="174" y="172" font-family="Arial" font-size="2.6" fill="#000000">PV 315A</text>
+<line x1="188" y1="163" x2="188" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="207" y1="187" x2="239" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="239" y1="187" x2="239" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="239" y1="163" x2="207" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="207" y1="163" x2="207" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="209" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="209" y="172" font-family="Arial" font-size="2.6" fill="#000000">BESS 400A Ir380</text>
+<line x1="223" y1="163" x2="223" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="242" y1="187" x2="274" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="274" y1="187" x2="274" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="274" y1="163" x2="242" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="242" y1="163" x2="242" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="244" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="244" y="172" font-family="Arial" font-size="2.6" fill="#000000">GEN/ATS 630A</text>
+<line x1="258" y1="163" x2="258" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="277" y1="187" x2="309" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="309" y1="187" x2="309" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="309" y1="163" x2="277" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="277" y1="163" x2="277" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="279" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="279" y="172" font-family="Arial" font-size="2.6" fill="#000000">CAP 315A</text>
+<line x1="293" y1="163" x2="293" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="312" y1="187" x2="344" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="344" y1="187" x2="344" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="344" y1="163" x2="312" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="312" y1="163" x2="312" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="314" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="314" y="172" font-family="Arial" font-size="2.6" fill="#000000">PUBLIC 32A</text>
+<line x1="328" y1="163" x2="328" y2="152" stroke="#007000" stroke-width="0.4"/>
+<line x1="347" y1="187" x2="379" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="379" y1="187" x2="379" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="379" y1="163" x2="347" y2="163" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="347" y1="163" x2="347" y2="187" stroke="#0000C0" stroke-width="0.4"/>
+<text x="349" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">OUT</text>
+<text x="349" y="172" font-family="Arial" font-size="2.6" fill="#000000">UPS 40A</text>
+<line x1="363" y1="163" x2="363" y2="152" stroke="#007000" stroke-width="0.4"/>
+<text x="40" y="207" font-family="Arial" font-size="2.6" fill="#696969">Form 4 segregation, IP41, copper busbar, TN-S</text>
+<text x="14" y="250" font-family="Arial" font-size="2.6" fill="#696969">NOTES: Two-section MDB; each section fed by one 1000kVA transformer; bus-tie for N-1.</text>
+</svg>

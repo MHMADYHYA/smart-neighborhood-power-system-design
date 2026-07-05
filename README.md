@@ -49,3 +49,13 @@ Power Systems, Low Voltage Design, IEC 60909, Protection Coordination, PV, BESS,
 ![figure_04](assets/images/figure_04.png)
 
 ![figure_05](assets/images/figure_05.png)
+
+## Full Project Package
+
+This repository now includes the complete public project package:
+
+- `docs/full_report_redacted.md` - full technical report text with private identifiers removed.
+- `assets/full_report_media/` or `assets/full_report_pages/` - report figures/pages where available.
+- Project source/configuration folders where the original project included runnable code or design files.
+
+Original raw report archives are not committed because they can contain private student metadata in covers, headers, or document properties.

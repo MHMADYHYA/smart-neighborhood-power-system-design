@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 297" width="1680" height="1188">
+<rect x="0" y="0" width="420" height="297" fill="white"/>
+<line x1="8" y1="289" x2="412" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="289" x2="412" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="8" x2="8" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="8" y1="8" x2="8" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="287" x2="410" y2="287" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="287" x2="410" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="10" x2="10" y2="287" stroke="#000000" stroke-width="0.4"/>
+<text x="14" y="16" font-family="Arial" font-size="5.5" fill="#000000">E-016   PV BESS Detailed SLD</text>
+<line x1="12" y1="285" x2="408" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="285" x2="408" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="253" x2="12" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="253" x2="12" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="265" x2="408" y2="265" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="274" x2="408" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="290" y1="265" x2="290" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="150" y1="285" x2="150" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="230" y1="285" x2="230" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="300" y1="285" x2="300" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="350" y1="285" x2="350" y2="274" stroke="#000000" stroke-width="0.4"/>
+<text x="15" y="261.5" font-family="Arial" font-size="3" fill="#000000">PROJECT: Smart Residential Neighborhood - Power Systems (Option B, LV 22/0.4kV)</text>
+<text x="305" y="261.5" font-family="Arial" font-size="2.8" fill="#000000">MILESTONE 4 - FINAL</text>
+<text x="15" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DRAWING: PV BESS Detailed SLD</text>
+<text x="293" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DWG No.: E-016</text>
+<text x="15" y="281" font-family="Arial" font-size="2.6" fill="#000000">STUDENT: __________</text>
+<text x="153" y="281" font-family="Arial" font-size="2.6" fill="#000000">SUPERVISOR: ______</text>
+<text x="233" y="281" font-family="Arial" font-size="2.6" fill="#000000">DATE: 2026-06-11</text>
+<text x="303" y="281" font-family="Arial" font-size="2.6" fill="#000000">REV: B FINAL</text>
+<text x="353" y="281" font-family="Arial" font-size="2.6" fill="#000000">SCALE: NTS</text>
+<line x1="30" y1="52" x2="66" y2="52" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="66" y1="52" x2="66" y2="36" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="66" y1="36" x2="30" y2="36" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="30" y1="36" x2="30" y2="52" stroke="#B8860B" stroke-width="0.4"/>
+<text x="32" y="40.5" font-family="Arial" font-size="2.8" fill="#000000">STRINGS</text>
+<text x="32" y="45" font-family="Arial" font-size="2.6" fill="#000000">array 1</text>
+<line x1="70" y1="52" x2="106" y2="52" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="106" y1="52" x2="106" y2="36" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="106" y1="36" x2="70" y2="36" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="70" y1="36" x2="70" y2="52" stroke="#B8860B" stroke-width="0.4"/>
+<text x="72" y="40.5" font-family="Arial" font-size="2.8" fill="#000000">STRINGS</text>
+<text x="72" y="45" font-family="Arial" font-size="2.6" fill="#000000">array 2</text>
+<line x1="110" y1="52" x2="146" y2="52" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="146" y1="52" x2="146" y2="36" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="146" y1="36" x2="110" y2="36" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="110" y1="36" x2="110" y2="52" stroke="#B8860B" stroke-width="0.4"/>
+<text x="112" y="40.5" font-family="Arial" font-size="2.8" fill="#000000">STRINGS</text>
+<text x="112" y="45" font-family="Arial" font-size="2.6" fill="#000000">array 3</text>
+<line x1="150" y1="52" x2="186" y2="52" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="186" y1="52" x2="186" y2="36" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="186" y1="36" x2="150" y2="36" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="150" y1="36" x2="150" y2="52" stroke="#B8860B" stroke-width="0.4"/>
+<text x="152" y="40.5" font-family="Arial" font-size="2.8" fill="#000000">STRINGS</text>
+<text x="152" y="45" font-family="Arial" font-size="2.6" fill="#000000">array 4</text>
+<line x1="60" y1="82" x2="150" y2="82" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="150" y1="82" x2="150" y2="66" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="150" y1="66" x2="60" y2="66" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="60" y1="66" x2="60" y2="82" stroke="#B8860B" stroke-width="0.4"/>
+<text x="62" y="70.5" font-family="Arial" font-size="2.8" fill="#000000">DC COMBINER</text>
+<text x="62" y="75" font-family="Arial" font-size="2.6" fill="#000000">DC fuse/isolator</text>
+<line x1="48" y1="52" x2="105" y2="66" stroke="#007000" stroke-width="0.4"/>
+<line x1="88" y1="52" x2="105" y2="66" stroke="#007000" stroke-width="0.4"/>
+<line x1="128" y1="52" x2="105" y2="66" stroke="#007000" stroke-width="0.4"/>
+<line x1="168" y1="52" x2="105" y2="66" stroke="#007000" stroke-width="0.4"/>
+<line x1="30" y1="112" x2="120" y2="112" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="120" y1="112" x2="120" y2="96" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="120" y1="96" x2="30" y2="96" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="30" y1="96" x2="30" y2="112" stroke="#B8860B" stroke-width="0.4"/>
+<text x="32" y="100.5" font-family="Arial" font-size="2.8" fill="#000000">INVERTERS 4x50kW</text>
+<text x="32" y="105" font-family="Arial" font-size="2.6" fill="#000000">AC breaker+SPD</text>
+<line x1="30" y1="142" x2="120" y2="142" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="120" y1="142" x2="120" y2="126" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="120" y1="126" x2="30" y2="126" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="30" y1="126" x2="30" y2="142" stroke="#B8860B" stroke-width="0.4"/>
+<text x="32" y="130.5" font-family="Arial" font-size="2.8" fill="#000000">PV PANEL 200kWp</text>
+<text x="32" y="135" font-family="Arial" font-size="2.6" fill="#000000">to MDB/BESS</text>
+<line x1="105" y1="82" x2="105" y2="96" stroke="#007000" stroke-width="0.4"/>
+<line x1="75" y1="112" x2="75" y2="126" stroke="#007000" stroke-width="0.4"/>
+<line x1="250" y1="52" x2="360" y2="52" stroke="#008080" stroke-width="0.4"/>
+<line x1="360" y1="52" x2="360" y2="34" stroke="#008080" stroke-width="0.4"/>
+<line x1="360" y1="34" x2="250" y2="34" stroke="#008080" stroke-width="0.4"/>
+<line x1="250" y1="34" x2="250" y2="52" stroke="#008080" stroke-width="0.4"/>
+<text x="252" y="38.5" font-family="Arial" font-size="2.8" fill="#000000">BESS MODULES</text>
+<text x="252" y="43" font-family="Arial" font-size="2.6" fill="#000000">500kWh</text>
+<line x1="250" y1="87" x2="360" y2="87" stroke="#008080" stroke-width="0.4"/>
+<line x1="360" y1="87" x2="360" y2="69" stroke="#008080" stroke-width="0.4"/>
+<line x1="360" y1="69" x2="250" y2="69" stroke="#008080" stroke-width="0.4"/>
+<line x1="250" y1="69" x2="250" y2="87" stroke="#008080" stroke-width="0.4"/>
+<text x="252" y="73.5" font-family="Arial" font-size="2.8" fill="#000000">PCS 250kW</text>
+<text x="252" y="78" font-family="Arial" font-size="2.6" fill="#000000">bidirectional</text>
+<line x1="250" y1="122" x2="360" y2="122" stroke="#008080" stroke-width="0.4"/>
+<line x1="360" y1="122" x2="360" y2="104" stroke="#008080" stroke-width="0.4"/>
+<line x1="360" y1="104" x2="250" y2="104" stroke="#008080" stroke-width="0.4"/>
+<line x1="250" y1="104" x2="250" y2="122" stroke="#008080" stroke-width="0.4"/>
+<text x="252" y="108.5" font-family="Arial" font-size="2.8" fill="#000000">BESS PANEL</text>
+<text x="252" y="113" font-family="Arial" font-size="2.6" fill="#000000">MCCB+SPD+E-stop</text>
+<line x1="305" y1="52" x2="305" y2="69" stroke="#007000" stroke-width="0.4"/>
+<line x1="305" y1="87" x2="305" y2="104" stroke="#007000" stroke-width="0.4"/>
+<text x="14" y="250" font-family="Arial" font-size="2.6" fill="#696969">NOTES: PV: strings-&gt;combiner-&gt;4x50kW inverters-&gt;PV panel. BESS: modules-&gt;PCS-&gt;panel.</text>
+</svg>

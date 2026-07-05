@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+<rect width="1800" height="1200" fill="white" stroke="#1f2937" stroke-width="6"/>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#1f2937"/></marker></defs>
+<rect x="30" y="30" width="1740" height="120" fill="#eef4fb" stroke="#1f4e79" stroke-width="3"/>
+<text x="60" y="98" font-family="Arial" font-size="44" fill="#17365d">E-007 Transformer RMU Room</text>
+<text x="1320" y="88" font-family="Arial" font-size="20" fill="#17365d">Final submission | Rev 0 | 2026-06-11</text>
+<rect x="110" y="220" width="330" height="130" rx="18" fill="#e8f2ff" stroke="#26374a" stroke-width="3"/>
+<text x="128" y="264" font-family="Arial" font-size="24" fill="#111827">22kV Entry</text>
+<rect x="520" y="220" width="330" height="130" rx="18" fill="#eefcf4" stroke="#26374a" stroke-width="3"/>
+<text x="538" y="264" font-family="Arial" font-size="24" fill="#111827">RMU</text>
+<rect x="930" y="220" width="330" height="130" rx="18" fill="#fff7e6" stroke="#26374a" stroke-width="3"/>
+<text x="948" y="264" font-family="Arial" font-size="24" fill="#111827">T1 Dry Cast AN</text>
+<rect x="1340" y="220" width="330" height="130" rx="18" fill="#f5efff" stroke="#26374a" stroke-width="3"/>
+<text x="1358" y="264" font-family="Arial" font-size="24" fill="#111827">T2 Dry Cast AN</text>
+<rect x="110" y="430" width="330" height="130" rx="18" fill="#e8f2ff" stroke="#26374a" stroke-width="3"/>
+<text x="128" y="474" font-family="Arial" font-size="24" fill="#111827">LV Trunk T1</text>
+<rect x="520" y="430" width="330" height="130" rx="18" fill="#eefcf4" stroke="#26374a" stroke-width="3"/>
+<text x="538" y="474" font-family="Arial" font-size="24" fill="#111827">LV Trunk T2</text>
+<rect x="930" y="430" width="330" height="130" rx="18" fill="#fff7e6" stroke="#26374a" stroke-width="3"/>
+<text x="948" y="474" font-family="Arial" font-size="24" fill="#111827">Ventilation</text>
+<rect x="1340" y="430" width="330" height="130" rx="18" fill="#f5efff" stroke="#26374a" stroke-width="3"/>
+<text x="1358" y="474" font-family="Arial" font-size="24" fill="#111827">Earthing Bar</text>
+<line x1="440" y1="285.0" x2="520" y2="285.0" stroke="#1f2937" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="850" y1="285.0" x2="930" y2="285.0" stroke="#1f2937" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="850" y1="285.0" x2="1340" y2="285.0" stroke="#1f2937" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="930" y1="285.0" x2="440" y2="495.0" stroke="#1f2937" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1340" y1="285.0" x2="850" y2="495.0" stroke="#1f2937" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1340" y1="495.0" x2="1260" y2="285.0" stroke="#1f2937" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="1505.0" y1="430" x2="1505.0" y2="350" stroke="#1f2937" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="30" y="980" width="1740" height="170" fill="#fbfbfb" stroke="#9ca3af" stroke-width="2"/>
+<text x="55" y="1028" font-family="Arial" font-size="20" fill="#111827">- Dry transformer cooling: AN</text>
+<text x="55" y="1066" font-family="Arial" font-size="20" fill="#111827">- Oil transformer/ONAN only rejected alternative</text>
+<text x="55" y="1104" font-family="Arial" font-size="20" fill="#111827">- Room layout subject to supplier clearances</text>
+</svg>

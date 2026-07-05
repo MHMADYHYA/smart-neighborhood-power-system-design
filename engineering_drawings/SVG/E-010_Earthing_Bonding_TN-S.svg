@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 297" width="1680" height="1188">
+<rect x="0" y="0" width="420" height="297" fill="white"/>
+<line x1="8" y1="289" x2="412" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="289" x2="412" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="8" x2="8" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="8" y1="8" x2="8" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="287" x2="410" y2="287" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="287" x2="410" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="10" x2="10" y2="287" stroke="#000000" stroke-width="0.4"/>
+<text x="14" y="16" font-family="Arial" font-size="5.5" fill="#000000">E-010   Earthing Bonding TN-S</text>
+<line x1="12" y1="285" x2="408" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="285" x2="408" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="253" x2="12" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="253" x2="12" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="265" x2="408" y2="265" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="274" x2="408" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="290" y1="265" x2="290" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="150" y1="285" x2="150" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="230" y1="285" x2="230" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="300" y1="285" x2="300" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="350" y1="285" x2="350" y2="274" stroke="#000000" stroke-width="0.4"/>
+<text x="15" y="261.5" font-family="Arial" font-size="3" fill="#000000">PROJECT: Smart Residential Neighborhood - Power Systems (Option B, LV 22/0.4kV)</text>
+<text x="305" y="261.5" font-family="Arial" font-size="2.8" fill="#000000">MILESTONE 4 - FINAL</text>
+<text x="15" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DRAWING: Earthing Bonding TN-S</text>
+<text x="293" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DWG No.: E-010</text>
+<text x="15" y="281" font-family="Arial" font-size="2.6" fill="#000000">STUDENT: __________</text>
+<text x="153" y="281" font-family="Arial" font-size="2.6" fill="#000000">SUPERVISOR: ______</text>
+<text x="233" y="281" font-family="Arial" font-size="2.6" fill="#000000">DATE: 2026-06-11</text>
+<text x="303" y="281" font-family="Arial" font-size="2.6" fill="#000000">REV: B FINAL</text>
+<text x="353" y="281" font-family="Arial" font-size="2.6" fill="#000000">SCALE: NTS</text>
+<line x1="150" y1="52" x2="260" y2="52" stroke="#C00000" stroke-width="0.4"/>
+<line x1="260" y1="52" x2="260" y2="34" stroke="#C00000" stroke-width="0.4"/>
+<line x1="260" y1="34" x2="150" y2="34" stroke="#C00000" stroke-width="0.4"/>
+<line x1="150" y1="34" x2="150" y2="52" stroke="#C00000" stroke-width="0.4"/>
+<text x="152" y="38.5" font-family="Arial" font-size="2.8" fill="#000000">TR NEUTRAL POINT</text>
+<text x="152" y="43" font-family="Arial" font-size="2.6" fill="#000000">Dyn11</text>
+<line x1="205" y1="52" x2="205" y2="77" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="150" y1="97" x2="260" y2="97" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="260" y1="97" x2="260" y2="79" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="260" y1="79" x2="150" y2="79" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="150" y1="79" x2="150" y2="97" stroke="#C000C0" stroke-width="0.4"/>
+<text x="152" y="83.5" font-family="Arial" font-size="2.8" fill="#000000">MAIN EARTH BAR (MET)</text>
+<text x="152" y="88" font-family="Arial" font-size="2.6" fill="#000000">N / PE separated</text>
+<line x1="160" y1="97" x2="160" y2="147" stroke="#C000C0" stroke-width="0.4"/>
+<text x="120" y="122" font-family="Arial" font-size="2.6" fill="#C000C0">PE</text>
+<line x1="250" y1="97" x2="250" y2="147" stroke="#0000C0" stroke-width="0.4"/>
+<text x="255" y="122" font-family="Arial" font-size="2.6" fill="#0000C0">N</text>
+<line x1="110" y1="167" x2="200" y2="167" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="200" y1="167" x2="200" y2="151" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="200" y1="151" x2="110" y2="151" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="110" y1="151" x2="110" y2="167" stroke="#C000C0" stroke-width="0.4"/>
+<text x="112" y="155.5" font-family="Arial" font-size="2.8" fill="#000000">EQUIPOTENTIAL BOND</text>
+<text x="112" y="160" font-family="Arial" font-size="2.6" fill="#000000">pipes/structure</text>
+<line x1="220" y1="167" x2="310" y2="167" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="310" y1="167" x2="310" y2="151" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="310" y1="151" x2="220" y2="151" stroke="#C000C0" stroke-width="0.4"/>
+<line x1="220" y1="151" x2="220" y2="167" stroke="#C000C0" stroke-width="0.4"/>
+<text x="222" y="155.5" font-family="Arial" font-size="2.8" fill="#000000">EARTH ELECTRODE</text>
+<text x="222" y="160" font-family="Arial" font-size="2.6" fill="#000000">Re &lt;= 1 ohm (target)</text>
+<circle cx="205" cy="187" r="6" stroke="#C000C0" stroke-width="0.4" fill="none"/>
+<line x1="205" y1="167" x2="205" y2="181" stroke="#C000C0" stroke-width="0.4"/>
+<text x="14" y="250" font-family="Arial" font-size="2.6" fill="#696969">NOTES: TN-S: N and PE separated from transformer neutral; RCD protection downstream.</text>
+</svg>

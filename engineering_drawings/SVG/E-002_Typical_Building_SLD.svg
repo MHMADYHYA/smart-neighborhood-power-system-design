@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 297" width="1680" height="1188">
+<rect x="0" y="0" width="420" height="297" fill="white"/>
+<line x1="8" y1="289" x2="412" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="289" x2="412" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="8" x2="8" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="8" y1="8" x2="8" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="287" x2="410" y2="287" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="287" x2="410" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="10" x2="10" y2="287" stroke="#000000" stroke-width="0.4"/>
+<text x="14" y="16" font-family="Arial" font-size="5.5" fill="#000000">E-002   Typical Building SLD</text>
+<line x1="12" y1="285" x2="408" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="285" x2="408" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="253" x2="12" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="253" x2="12" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="265" x2="408" y2="265" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="274" x2="408" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="290" y1="265" x2="290" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="150" y1="285" x2="150" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="230" y1="285" x2="230" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="300" y1="285" x2="300" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="350" y1="285" x2="350" y2="274" stroke="#000000" stroke-width="0.4"/>
+<text x="15" y="261.5" font-family="Arial" font-size="3" fill="#000000">PROJECT: Smart Residential Neighborhood - Power Systems (Option B, LV 22/0.4kV)</text>
+<text x="305" y="261.5" font-family="Arial" font-size="2.8" fill="#000000">MILESTONE 4 - FINAL</text>
+<text x="15" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DRAWING: Typical Building SLD</text>
+<text x="293" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DWG No.: E-002</text>
+<text x="15" y="281" font-family="Arial" font-size="2.6" fill="#000000">STUDENT: __________</text>
+<text x="153" y="281" font-family="Arial" font-size="2.6" fill="#000000">SUPERVISOR: ______</text>
+<text x="233" y="281" font-family="Arial" font-size="2.6" fill="#000000">DATE: 2026-06-11</text>
+<text x="303" y="281" font-family="Arial" font-size="2.6" fill="#000000">REV: B FINAL</text>
+<text x="353" y="281" font-family="Arial" font-size="2.6" fill="#000000">SCALE: NTS</text>
+<line x1="30" y1="47" x2="90" y2="47" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="90" y1="47" x2="90" y2="31" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="90" y1="31" x2="30" y2="31" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="30" y1="31" x2="30" y2="47" stroke="#0000C0" stroke-width="0.4"/>
+<text x="32" y="35.5" font-family="Arial" font-size="2.8" fill="#000000">FROM MDB</text>
+<text x="32" y="40" font-family="Arial" font-size="2.6" fill="#000000">MCCB 800A</text>
+<line x1="60" y1="47" x2="60" y2="62" stroke="#007000" stroke-width="0.4"/>
+<text x="62" y="55" font-family="Arial" font-size="2.6" fill="#007000">Cu 2x(4x300)+PE150</text>
+<line x1="25" y1="75" x2="145" y2="75" stroke="#C00000" stroke-width="0.4"/>
+<line x1="145" y1="75" x2="145" y2="63" stroke="#C00000" stroke-width="0.4"/>
+<line x1="145" y1="63" x2="25" y2="63" stroke="#C00000" stroke-width="0.4"/>
+<line x1="25" y1="63" x2="25" y2="75" stroke="#C00000" stroke-width="0.4"/>
+<text x="35" y="72" font-family="Arial" font-size="3" fill="#C00000">BUILDING MAIN BUSBAR</text>
+<line x1="200" y1="63" x2="200" y2="227" stroke="#0000C0" stroke-width="0.4"/>
+<text x="202" y="147" font-family="Arial" font-size="2.8" fill="#0000C0">RISER</text>
+<line x1="145" y1="69" x2="200" y2="69" stroke="#007000" stroke-width="0.4"/>
+<line x1="210" y1="87" x2="280" y2="87" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="87" x2="280" y2="69" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="69" x2="210" y2="69" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="210" y1="69" x2="210" y2="87" stroke="#0000C0" stroke-width="0.4"/>
+<text x="212" y="73.5" font-family="Arial" font-size="2.8" fill="#000000">FLOOR 14 PANEL</text>
+<text x="212" y="78" font-family="Arial" font-size="2.6" fill="#000000">MCCB 80A; 4x apt 3x25A</text>
+<line x1="200" y1="78" x2="210" y2="78" stroke="#007000" stroke-width="0.4"/>
+<line x1="210" y1="115" x2="280" y2="115" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="115" x2="280" y2="97" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="97" x2="210" y2="97" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="210" y1="97" x2="210" y2="115" stroke="#0000C0" stroke-width="0.4"/>
+<text x="212" y="101.5" font-family="Arial" font-size="2.8" fill="#000000">FLOOR 11 PANEL</text>
+<text x="212" y="106" font-family="Arial" font-size="2.6" fill="#000000">MCCB 80A; 4x apt 3x25A</text>
+<line x1="200" y1="106" x2="210" y2="106" stroke="#007000" stroke-width="0.4"/>
+<line x1="210" y1="143" x2="280" y2="143" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="143" x2="280" y2="125" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="125" x2="210" y2="125" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="210" y1="125" x2="210" y2="143" stroke="#0000C0" stroke-width="0.4"/>
+<text x="212" y="129.5" font-family="Arial" font-size="2.8" fill="#000000">FLOOR 8 PANEL</text>
+<text x="212" y="134" font-family="Arial" font-size="2.6" fill="#000000">MCCB 80A; 4x apt 3x25A</text>
+<line x1="200" y1="134" x2="210" y2="134" stroke="#007000" stroke-width="0.4"/>
+<line x1="210" y1="171" x2="280" y2="171" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="171" x2="280" y2="153" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="153" x2="210" y2="153" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="210" y1="153" x2="210" y2="171" stroke="#0000C0" stroke-width="0.4"/>
+<text x="212" y="157.5" font-family="Arial" font-size="2.8" fill="#000000">FLOOR 5 PANEL</text>
+<text x="212" y="162" font-family="Arial" font-size="2.6" fill="#000000">MCCB 80A; 4x apt 3x25A</text>
+<line x1="200" y1="162" x2="210" y2="162" stroke="#007000" stroke-width="0.4"/>
+<line x1="210" y1="199" x2="280" y2="199" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="199" x2="280" y2="181" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="280" y1="181" x2="210" y2="181" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="210" y1="181" x2="210" y2="199" stroke="#0000C0" stroke-width="0.4"/>
+<text x="212" y="185.5" font-family="Arial" font-size="2.8" fill="#000000">FLOOR 2 PANEL</text>
+<text x="212" y="190" font-family="Arial" font-size="2.6" fill="#000000">MCCB 80A; 4x apt 3x25A</text>
+<line x1="200" y1="190" x2="210" y2="190" stroke="#007000" stroke-width="0.4"/>
+<line x1="300" y1="147" x2="370" y2="147" stroke="#E07000" stroke-width="0.4"/>
+<line x1="370" y1="147" x2="370" y2="129" stroke="#E07000" stroke-width="0.4"/>
+<line x1="370" y1="129" x2="300" y2="129" stroke="#E07000" stroke-width="0.4"/>
+<line x1="300" y1="129" x2="300" y2="147" stroke="#E07000" stroke-width="0.4"/>
+<text x="302" y="133.5" font-family="Arial" font-size="2.8" fill="#000000">APT PANEL 3x25A</text>
+<text x="302" y="138" font-family="Arial" font-size="2.6" fill="#000000">MCB+RCD 30mA TypeA</text>
+<line x1="280" y1="138" x2="300" y2="138" stroke="#007000" stroke-width="0.4"/>
+<line x1="300" y1="177" x2="370" y2="177" stroke="#707000" stroke-width="0.4"/>
+<line x1="370" y1="177" x2="370" y2="163" stroke="#707000" stroke-width="0.4"/>
+<line x1="370" y1="163" x2="300" y2="163" stroke="#707000" stroke-width="0.4"/>
+<line x1="300" y1="163" x2="300" y2="177" stroke="#707000" stroke-width="0.4"/>
+<text x="302" y="167.5" font-family="Arial" font-size="2.8" fill="#000000">FINAL CIRCUITS</text>
+<text x="302" y="172" font-family="Arial" font-size="2.6" fill="#000000">MCB C16 / C10</text>
+<line x1="335" y1="147" x2="335" y2="163" stroke="#007000" stroke-width="0.4"/>
+<text x="14" y="250" font-family="Arial" font-size="2.6" fill="#696969">NOTES: 56 apt/building (14 floors x 4). Apartment 17.32kVA. Building installed 969.9kVA.</text>
+</svg>

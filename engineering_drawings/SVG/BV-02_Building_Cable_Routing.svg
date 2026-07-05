@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 297" width="1680" height="1188">
+<rect x="0" y="0" width="420" height="297" fill="white"/>
+<line x1="8" y1="289" x2="412" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="289" x2="412" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="8" x2="8" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="8" y1="8" x2="8" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="287" x2="410" y2="287" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="287" x2="410" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="10" x2="10" y2="287" stroke="#000000" stroke-width="0.4"/>
+<text x="14" y="16" font-family="Arial" font-size="5.5" fill="#000000">BV-02   Building View - Cable Routing</text>
+<line x1="12" y1="285" x2="408" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="285" x2="408" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="253" x2="12" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="253" x2="12" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="265" x2="408" y2="265" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="274" x2="408" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="290" y1="265" x2="290" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="150" y1="285" x2="150" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="230" y1="285" x2="230" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="300" y1="285" x2="300" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="350" y1="285" x2="350" y2="274" stroke="#000000" stroke-width="0.4"/>
+<text x="15" y="261.5" font-family="Arial" font-size="3" fill="#000000">PROJECT: Smart Residential Neighborhood - Power Systems (Option B, LV 22/0.4kV)</text>
+<text x="305" y="261.5" font-family="Arial" font-size="2.8" fill="#000000">MILESTONE 4 - FINAL</text>
+<text x="15" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DRAWING: Building View - Cable Routing</text>
+<text x="293" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DWG No.: BV-02</text>
+<text x="15" y="281" font-family="Arial" font-size="2.6" fill="#000000">STUDENT: __________</text>
+<text x="153" y="281" font-family="Arial" font-size="2.6" fill="#000000">SUPERVISOR: ______</text>
+<text x="233" y="281" font-family="Arial" font-size="2.6" fill="#000000">DATE: 2026-06-11</text>
+<text x="303" y="281" font-family="Arial" font-size="2.6" fill="#000000">REV: B FINAL</text>
+<text x="353" y="281" font-family="Arial" font-size="2.6" fill="#000000">SCALE: NTS</text>
+<line x1="60" y1="237" x2="160" y2="237" stroke="#C00000" stroke-width="0.4"/>
+<line x1="160" y1="237" x2="160" y2="42" stroke="#C00000" stroke-width="0.4"/>
+<line x1="160" y1="42" x2="60" y2="42" stroke="#C00000" stroke-width="0.4"/>
+<line x1="60" y1="42" x2="60" y2="237" stroke="#C00000" stroke-width="0.4"/>
+<line x1="60" y1="219" x2="160" y2="219" stroke="#C00000" stroke-width="0.4"/>
+<line x1="60" y1="206.36" x2="160" y2="206.36" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="193.72" x2="160" y2="193.72" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="181.08" x2="160" y2="181.08" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="168.44" x2="160" y2="168.44" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="155.8" x2="160" y2="155.8" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="143.16" x2="160" y2="143.16" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="130.52" x2="160" y2="130.52" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="117.88" x2="160" y2="117.88" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="105.24" x2="160" y2="105.24" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="92.6" x2="160" y2="92.6" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="79.96" x2="160" y2="79.96" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="67.32" x2="160" y2="67.32" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="54.68" x2="160" y2="54.68" stroke="#696969" stroke-width="0.4"/>
+<line x1="70" y1="42" x2="150" y2="42" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="150" y1="42" x2="150" y2="34" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="150" y1="34" x2="70" y2="34" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="70" y1="34" x2="70" y2="42" stroke="#B8860B" stroke-width="0.4"/>
+<text x="72" y="39.8" font-family="Arial" font-size="2.3" fill="#000000">ROOF PV ARRAY (200kWp total)</text>
+<text x="62" y="227" font-family="Arial" font-size="2.3" fill="#000000">GROUND FLOOR - technical/public</text>
+<text x="62" y="51" font-family="Arial" font-size="2.2" fill="#000000">FLOOR 14</text>
+<text x="62" y="216.5" font-family="Arial" font-size="2.2" fill="#000000">FLOOR 1</text>
+<text x="60" y="27" font-family="Arial" font-size="3.2" fill="#000000">BUILDING VIEW 2 - CABLE ROUTING</text>
+<line x1="20" y1="239" x2="410" y2="239" stroke="#696969" stroke-width="0.4"/>
+<text x="380" y="237.5" font-family="Arial" font-size="2.2" fill="#696969">grade</text>
+<line x1="300" y1="257" x2="370" y2="257" stroke="#C00000" stroke-width="0.4"/>
+<line x1="370" y1="257" x2="370" y2="241" stroke="#C00000" stroke-width="0.4"/>
+<line x1="370" y1="241" x2="300" y2="241" stroke="#C00000" stroke-width="0.4"/>
+<line x1="300" y1="241" x2="300" y2="257" stroke="#C00000" stroke-width="0.4"/>
+<text x="302" y="245.5" font-family="Arial" font-size="2.8" fill="#000000">FROM MDB</text>
+<text x="302" y="250" font-family="Arial" font-size="2.6" fill="#000000">trench depth &gt;=0.8m</text>
+<line x1="300" y1="249" x2="150" y2="249" stroke="#007000" stroke-width="0.4"/>
+<line x1="150" y1="249" x2="150" y2="235" stroke="#007000" stroke-width="0.4"/>
+<text x="170" y="247" font-family="Arial" font-size="2.3" fill="#007000">underground duct + sand bed + warning tape</text>
+<line x1="103" y1="219" x2="117" y2="219" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="219" x2="117" y2="42" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="42" x2="103" y2="42" stroke="#007000" stroke-width="0.4"/>
+<line x1="103" y1="42" x2="103" y2="219" stroke="#007000" stroke-width="0.4"/>
+<text x="119" y="67" font-family="Arial" font-size="2.3" fill="#007000">RISER SHAFT (fire-sealed each floor)</text>
+<line x1="117" y1="212.68" x2="150" y2="212.68" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="200.04" x2="150" y2="200.04" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="187.4" x2="150" y2="187.4" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="174.76" x2="150" y2="174.76" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="162.12" x2="150" y2="162.12" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="149.48" x2="150" y2="149.48" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="136.84" x2="150" y2="136.84" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="124.2" x2="150" y2="124.2" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="111.56" x2="150" y2="111.56" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="98.92" x2="150" y2="98.92" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="86.28" x2="150" y2="86.28" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="73.64" x2="150" y2="73.64" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="61" x2="150" y2="61" stroke="#007000" stroke-width="0.4"/>
+<line x1="117" y1="48.36" x2="150" y2="48.36" stroke="#007000" stroke-width="0.4"/>
+<text x="152" y="152" font-family="Arial" font-size="2.2" fill="#007000">floor trunking to floor panel</text>
+<line x1="110" y1="42" x2="110" y2="34" stroke="#B8860B" stroke-width="0.4"/>
+<line x1="110" y1="34" x2="85" y2="34" stroke="#B8860B" stroke-width="0.4"/>
+<text x="165" y="37" font-family="Arial" font-size="2.3" fill="#B8860B">PV DC route in dedicated conduit to inverters</text>
+<line x1="230" y1="197" x2="320" y2="197" stroke="#007000" stroke-width="0.4"/>
+<line x1="320" y1="197" x2="320" y2="181" stroke="#007000" stroke-width="0.4"/>
+<line x1="320" y1="181" x2="230" y2="181" stroke="#007000" stroke-width="0.4"/>
+<line x1="230" y1="181" x2="230" y2="197" stroke="#007000" stroke-width="0.4"/>
+<text x="232" y="185.5" font-family="Arial" font-size="2.8" fill="#000000">SEPARATION</text>
+<text x="232" y="190" font-family="Arial" font-size="2.6" fill="#000000">LV power / comms &gt;=0.3m</text>
+<text x="14" y="250" font-family="Arial" font-size="2.6" fill="#696969">NOTES: Cable containment: trench entry, sealed riser shaft, floor trunking, PV DC conduit.</text>
+</svg>

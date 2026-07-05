@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 297" width="1680" height="1188">
+<rect x="0" y="0" width="420" height="297" fill="white"/>
+<line x1="8" y1="289" x2="412" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="289" x2="412" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="8" x2="8" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="8" y1="8" x2="8" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="287" x2="410" y2="287" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="287" x2="410" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="10" x2="10" y2="287" stroke="#000000" stroke-width="0.4"/>
+<text x="14" y="16" font-family="Arial" font-size="5.5" fill="#000000">E-008   Generator ATS UPS SLD</text>
+<line x1="12" y1="285" x2="408" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="285" x2="408" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="253" x2="12" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="253" x2="12" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="265" x2="408" y2="265" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="274" x2="408" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="290" y1="265" x2="290" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="150" y1="285" x2="150" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="230" y1="285" x2="230" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="300" y1="285" x2="300" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="350" y1="285" x2="350" y2="274" stroke="#000000" stroke-width="0.4"/>
+<text x="15" y="261.5" font-family="Arial" font-size="3" fill="#000000">PROJECT: Smart Residential Neighborhood - Power Systems (Option B, LV 22/0.4kV)</text>
+<text x="305" y="261.5" font-family="Arial" font-size="2.8" fill="#000000">MILESTONE 4 - FINAL</text>
+<text x="15" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DRAWING: Generator ATS UPS SLD</text>
+<text x="293" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DWG No.: E-008</text>
+<text x="15" y="281" font-family="Arial" font-size="2.6" fill="#000000">STUDENT: __________</text>
+<text x="153" y="281" font-family="Arial" font-size="2.6" fill="#000000">SUPERVISOR: ______</text>
+<text x="233" y="281" font-family="Arial" font-size="2.6" fill="#000000">DATE: 2026-06-11</text>
+<text x="303" y="281" font-family="Arial" font-size="2.6" fill="#000000">REV: B FINAL</text>
+<text x="353" y="281" font-family="Arial" font-size="2.6" fill="#000000">SCALE: NTS</text>
+<line x1="40" y1="57" x2="110" y2="57" stroke="#C00000" stroke-width="0.4"/>
+<line x1="110" y1="57" x2="110" y2="39" stroke="#C00000" stroke-width="0.4"/>
+<line x1="110" y1="39" x2="40" y2="39" stroke="#C00000" stroke-width="0.4"/>
+<line x1="40" y1="39" x2="40" y2="57" stroke="#C00000" stroke-width="0.4"/>
+<text x="42" y="43.5" font-family="Arial" font-size="2.8" fill="#000000">GRID (MDB)</text>
+<text x="42" y="48" font-family="Arial" font-size="2.6" fill="#000000">normal source</text>
+<line x1="250" y1="57" x2="330" y2="57" stroke="#696969" stroke-width="0.4"/>
+<line x1="330" y1="57" x2="330" y2="39" stroke="#696969" stroke-width="0.4"/>
+<line x1="330" y1="39" x2="250" y2="39" stroke="#696969" stroke-width="0.4"/>
+<line x1="250" y1="39" x2="250" y2="57" stroke="#696969" stroke-width="0.4"/>
+<text x="252" y="43.5" font-family="Arial" font-size="2.8" fill="#000000">GENERATOR 300kVA</text>
+<text x="252" y="48" font-family="Arial" font-size="2.6" fill="#000000">emergency source</text>
+<line x1="150" y1="102" x2="240" y2="102" stroke="#696969" stroke-width="0.4"/>
+<line x1="240" y1="102" x2="240" y2="80" stroke="#696969" stroke-width="0.4"/>
+<line x1="240" y1="80" x2="150" y2="80" stroke="#696969" stroke-width="0.4"/>
+<line x1="150" y1="80" x2="150" y2="102" stroke="#696969" stroke-width="0.4"/>
+<text x="152" y="84.5" font-family="Arial" font-size="2.8" fill="#000000">ATS</text>
+<text x="152" y="89" font-family="Arial" font-size="2.6" fill="#000000">auto transfer switch</text>
+<line x1="75" y1="57" x2="180" y2="80" stroke="#007000" stroke-width="0.4"/>
+<line x1="290" y1="57" x2="210" y2="80" stroke="#007000" stroke-width="0.4"/>
+<line x1="195" y1="102" x2="195" y2="127" stroke="#007000" stroke-width="0.4"/>
+<line x1="140" y1="147" x2="250" y2="147" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="250" y1="147" x2="250" y2="129" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="250" y1="129" x2="140" y2="129" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="140" y1="129" x2="140" y2="147" stroke="#0000C0" stroke-width="0.4"/>
+<text x="142" y="133.5" font-family="Arial" font-size="2.8" fill="#000000">EMERGENCY PANEL</text>
+<text x="142" y="138" font-family="Arial" font-size="2.6" fill="#000000">lifts/pumps/em.light</text>
+<line x1="60" y1="147" x2="120" y2="147" stroke="#696969" stroke-width="0.4"/>
+<line x1="120" y1="147" x2="120" y2="129" stroke="#696969" stroke-width="0.4"/>
+<line x1="120" y1="129" x2="60" y2="129" stroke="#696969" stroke-width="0.4"/>
+<line x1="60" y1="129" x2="60" y2="147" stroke="#696969" stroke-width="0.4"/>
+<text x="62" y="133.5" font-family="Arial" font-size="2.8" fill="#000000">UPS 20kVA</text>
+<text x="62" y="138" font-family="Arial" font-size="2.6" fill="#000000">8.75kWh / ~1.1h</text>
+<line x1="90" y1="147" x2="90" y2="177" stroke="#007000" stroke-width="0.4"/>
+<line x1="50" y1="202" x2="180" y2="202" stroke="#700070" stroke-width="0.4"/>
+<line x1="180" y1="202" x2="180" y2="184" stroke="#700070" stroke-width="0.4"/>
+<line x1="180" y1="184" x2="50" y2="184" stroke="#700070" stroke-width="0.4"/>
+<line x1="50" y1="184" x2="50" y2="202" stroke="#700070" stroke-width="0.4"/>
+<text x="52" y="188.5" font-family="Arial" font-size="2.8" fill="#000000">CRITICAL LOADS</text>
+<text x="52" y="193" font-family="Arial" font-size="2.6" fill="#000000">fire/comms/EMS/BMS</text>
+<text x="14" y="250" font-family="Arial" font-size="2.6" fill="#696969">NOTES: On grid failure: gen start -&gt; ATS transfer; UPS bridges critical loads.</text>
+<text x="14" y="255" font-family="Arial" font-size="2.6" fill="#696969">INTERLOCK: PV/BESS blocked from emergency bus during generator operation (ATS + EMS anti-parallel).</text>
+</svg>

@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 297" width="1680" height="1188">
+<rect x="0" y="0" width="420" height="297" fill="white"/>
+<line x1="8" y1="289" x2="412" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="289" x2="412" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="412" y1="8" x2="8" y2="8" stroke="#000000" stroke-width="0.4"/>
+<line x1="8" y1="8" x2="8" y2="289" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="287" x2="410" y2="287" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="287" x2="410" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="410" y1="10" x2="10" y2="10" stroke="#000000" stroke-width="0.4"/>
+<line x1="10" y1="10" x2="10" y2="287" stroke="#000000" stroke-width="0.4"/>
+<text x="14" y="16" font-family="Arial" font-size="5.5" fill="#000000">E-004   Sub Panels Layout</text>
+<line x1="12" y1="285" x2="408" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="285" x2="408" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="408" y1="253" x2="12" y2="253" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="253" x2="12" y2="285" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="265" x2="408" y2="265" stroke="#000000" stroke-width="0.4"/>
+<line x1="12" y1="274" x2="408" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="290" y1="265" x2="290" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="150" y1="285" x2="150" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="230" y1="285" x2="230" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="300" y1="285" x2="300" y2="274" stroke="#000000" stroke-width="0.4"/>
+<line x1="350" y1="285" x2="350" y2="274" stroke="#000000" stroke-width="0.4"/>
+<text x="15" y="261.5" font-family="Arial" font-size="3" fill="#000000">PROJECT: Smart Residential Neighborhood - Power Systems (Option B, LV 22/0.4kV)</text>
+<text x="305" y="261.5" font-family="Arial" font-size="2.8" fill="#000000">MILESTONE 4 - FINAL</text>
+<text x="15" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DRAWING: Sub Panels Layout</text>
+<text x="293" y="271.5" font-family="Arial" font-size="2.8" fill="#000000">DWG No.: E-004</text>
+<text x="15" y="281" font-family="Arial" font-size="2.6" fill="#000000">STUDENT: __________</text>
+<text x="153" y="281" font-family="Arial" font-size="2.6" fill="#000000">SUPERVISOR: ______</text>
+<text x="233" y="281" font-family="Arial" font-size="2.6" fill="#000000">DATE: 2026-06-11</text>
+<text x="303" y="281" font-family="Arial" font-size="2.6" fill="#000000">REV: B FINAL</text>
+<text x="353" y="281" font-family="Arial" font-size="2.6" fill="#000000">SCALE: NTS</text>
+<line x1="170" y1="47" x2="240" y2="47" stroke="#C00000" stroke-width="0.4"/>
+<line x1="240" y1="47" x2="240" y2="29" stroke="#C00000" stroke-width="0.4"/>
+<line x1="240" y1="29" x2="170" y2="29" stroke="#C00000" stroke-width="0.4"/>
+<line x1="170" y1="29" x2="170" y2="47" stroke="#C00000" stroke-width="0.4"/>
+<text x="172" y="33.5" font-family="Arial" font-size="2.8" fill="#000000">MDB 2500A</text>
+<text x="172" y="38" font-family="Arial" font-size="2.6" fill="#000000">Icw 65kA</text>
+<line x1="20" y1="107" x2="86" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="86" y1="107" x2="86" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="86" y1="85" x2="20" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="20" y1="85" x2="20" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<text x="22" y="89.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="22" y="94" font-family="Arial" font-size="2.6" fill="#000000">BLDG A 800A</text>
+<line x1="205" y1="47" x2="53" y2="85" stroke="#007000" stroke-width="0.4"/>
+<line x1="98" y1="107" x2="164" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="164" y1="107" x2="164" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="164" y1="85" x2="98" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="98" y1="85" x2="98" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<text x="100" y="89.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="100" y="94" font-family="Arial" font-size="2.6" fill="#000000">BLDG B 800A</text>
+<line x1="205" y1="47" x2="131" y2="85" stroke="#007000" stroke-width="0.4"/>
+<line x1="176" y1="107" x2="242" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="242" y1="107" x2="242" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="242" y1="85" x2="176" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="176" y1="85" x2="176" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<text x="178" y="89.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="178" y="94" font-family="Arial" font-size="2.6" fill="#000000">BLDG C 800A</text>
+<line x1="205" y1="47" x2="209" y2="85" stroke="#007000" stroke-width="0.4"/>
+<line x1="254" y1="107" x2="320" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="320" y1="107" x2="320" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="320" y1="85" x2="254" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="254" y1="85" x2="254" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<text x="256" y="89.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="256" y="94" font-family="Arial" font-size="2.6" fill="#000000">EV 250A</text>
+<line x1="205" y1="47" x2="287" y2="85" stroke="#007000" stroke-width="0.4"/>
+<line x1="332" y1="107" x2="398" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="398" y1="107" x2="398" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="398" y1="85" x2="332" y2="85" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="332" y1="85" x2="332" y2="107" stroke="#0000C0" stroke-width="0.4"/>
+<text x="334" y="89.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="334" y="94" font-family="Arial" font-size="2.6" fill="#000000">PV 315A</text>
+<line x1="205" y1="47" x2="365" y2="85" stroke="#007000" stroke-width="0.4"/>
+<line x1="20" y1="167" x2="86" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="86" y1="167" x2="86" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="86" y1="145" x2="20" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="20" y1="145" x2="20" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<text x="22" y="149.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="22" y="154" font-family="Arial" font-size="2.6" fill="#000000">BESS 400A Ir380</text>
+<line x1="205" y1="47" x2="53" y2="145" stroke="#007000" stroke-width="0.4"/>
+<line x1="98" y1="167" x2="164" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="164" y1="167" x2="164" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="164" y1="145" x2="98" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="98" y1="145" x2="98" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<text x="100" y="149.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="100" y="154" font-family="Arial" font-size="2.6" fill="#000000">PUBLIC 32A</text>
+<line x1="205" y1="47" x2="131" y2="145" stroke="#007000" stroke-width="0.4"/>
+<line x1="176" y1="167" x2="242" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="242" y1="167" x2="242" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="242" y1="145" x2="176" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="176" y1="145" x2="176" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<text x="178" y="149.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="178" y="154" font-family="Arial" font-size="2.6" fill="#000000">UPS 40A</text>
+<line x1="205" y1="47" x2="209" y2="145" stroke="#007000" stroke-width="0.4"/>
+<line x1="254" y1="167" x2="320" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="320" y1="167" x2="320" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="320" y1="145" x2="254" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="254" y1="145" x2="254" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<text x="256" y="149.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="256" y="154" font-family="Arial" font-size="2.6" fill="#000000">CAP 200kvar</text>
+<line x1="205" y1="47" x2="287" y2="145" stroke="#007000" stroke-width="0.4"/>
+<line x1="332" y1="167" x2="398" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="398" y1="167" x2="398" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="398" y1="145" x2="332" y2="145" stroke="#0000C0" stroke-width="0.4"/>
+<line x1="332" y1="145" x2="332" y2="167" stroke="#0000C0" stroke-width="0.4"/>
+<text x="334" y="149.5" font-family="Arial" font-size="2.8" fill="#000000">PANEL</text>
+<text x="334" y="154" font-family="Arial" font-size="2.6" fill="#000000">GEN/ATS 630A</text>
+<line x1="205" y1="47" x2="365" y2="145" stroke="#007000" stroke-width="0.4"/>
+<text x="14" y="250" font-family="Arial" font-size="2.6" fill="#696969">NOTES: Panel hierarchy from MDB to all sub-distribution boards.</text>
+</svg>
